@@ -1,0 +1,7 @@
+example
+node_modules
+vite.config.ts
+tailwind.config.ts
+postcss.config.ts
+tsconfig.json
+*.log
