@@ -215,7 +215,7 @@ export default function TidemanVisualizer(): JSX.Element {
           <p className="text-xs text-blue-700 bg-blue-50 px-3 py-2 rounded-lg mb-3">
             <span className="font-medium">💡 Tip:</span> Read the table as <b>row beats column</b>. 
             For example, the value in Alice's row and Bob's column shows how many voters prefer Alice over Bob.
-            When solving LeetCode problems with graphs and DFS, thinking in terms of rows and columns often helps clarify the logic.
+            (Personally, I find thinking in terms of rows and columns like this helpful when solving LeetCode graph/DFS problems too.)
           </p>
           <div className="overflow-auto">
             <table className="min-w-full border-separate border-spacing-0 text-sm">
