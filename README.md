@@ -2,7 +2,7 @@
 
 **A powerful interactive visualization tool for understanding the Tideman (Ranked Pairs) voting algorithm.**
 
-This React + TypeScript component provides a **step-by-step visual walkthrough** of the Tideman voting method, making it easy to understand how ranked-choice voting works. Perfect for learning, teaching, or debugging Tideman implementations.
+A **step-by-step visual walkthrough** of the Tideman voting method, making it easy to understand how ranked-choice voting works. Perfect for learning, teaching, or debugging Tideman implementations.
 
 ## ✨ Visualization Features
 
