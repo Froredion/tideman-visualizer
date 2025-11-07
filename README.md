@@ -24,7 +24,7 @@ This tool transforms the abstract Tideman algorithm into an intuitive, visual le
 
 ## 🚀 Use the Tool
 
-**[Launch Tideman Visualizer →](https://froredion.github.io/tideman-visualizer/)**
+**[Launch Tideman Visualizer Website →](https://froredion.github.io/tideman-visualizer/)**
 
 No installation required! Just open the link and start visualizing the Tideman algorithm.
 
